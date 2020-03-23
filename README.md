@@ -6,6 +6,4 @@ Android.
 Main class: MainActivity.java
 
 
-TODO:
-
-Proper login and auth from external server. Login is a local hardcoded mock login at the moment.
+TODO: Proper login and auth from external server. Login is a local hardcoded mock login at the moment.
