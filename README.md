@@ -1,6 +1,6 @@
 # Vikailmoitus App
 App for sharing and chacking out notification for various uses.
-Android
+Android.
 Main class: MainActivity.java
 
 TODO:
